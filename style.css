@@ -151,9 +151,8 @@ input[type="text"] {
   cursor: pointer;
 }
 
-#votes-form input[type="submit"]:hover {
-  background-color: #003d80;
-}
+
+
 
 #reset-votes {
   margin-top: 10px;
