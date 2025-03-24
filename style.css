@@ -115,11 +115,7 @@ body {
   background-color: white;
 }
 
-#detailed-info img {
-  width: 200px;
-  height: auto;
-  border-radius: 10px;
-}
+
 
 input[type="submit"], button {
   background-color: #4CAF50; /* Match the header background color */
@@ -135,6 +131,11 @@ input[type="submit"]:hover, button:hover {
 }
 
 
+#votes-form input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+  font-size: 1rem;
+}
 
 #votes-form input[type="submit"] {
   padding: 5px 10px;
