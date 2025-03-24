@@ -1,4 +1,6 @@
-
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 html, body {
   margin: 0;
@@ -90,10 +92,7 @@ body {
   cursor: pointer;
 }
 
-.header-button:hover {
-  background-color: white;
-  color: #4CAF50;
-}
+
 
 .characterInfo {
   margin-top: 20px;
