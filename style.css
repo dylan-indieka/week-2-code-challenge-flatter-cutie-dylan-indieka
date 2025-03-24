@@ -55,10 +55,7 @@ body {
   background-color: transparent;
 }
 
-#character-bar span:hover {
-  background-color: white;
-  color: #0056b3;
-}
+
 
 #character-bar button {
   background-color: #0056b3;
@@ -92,6 +89,10 @@ body {
   cursor: pointer;
 }
 
+.header-button:hover {
+  background-color: white;
+  color: #4CAF50;
+}
 
 
 .characterInfo {
