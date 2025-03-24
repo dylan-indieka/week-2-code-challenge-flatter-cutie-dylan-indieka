@@ -163,7 +163,9 @@ input[type="submit"]:hover, button:hover {
   cursor: pointer;
 }
 
-#reset-votes:hover {
-  background-color: #cc0000;
-}
 
+
+#image {
+  width: 300px;
+  height: 300px;
+}
