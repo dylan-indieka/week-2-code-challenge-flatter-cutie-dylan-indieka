@@ -151,7 +151,9 @@ input[type="text"] {
   cursor: pointer;
 }
 
-
+#votes-form input[type="submit"]:hover {
+  background-color: #003d80;
+}
 
 
 #reset-votes {
@@ -163,9 +165,7 @@ input[type="text"] {
   cursor: pointer;
 }
 
-#reset-votes:hover {
-  background-color: #cc0000;
-}
+
 
 #image {
   width: 300px;
