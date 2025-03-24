@@ -135,11 +135,6 @@ input[type="submit"]:hover, button:hover {
 }
 
 
-#votes-form input[type="text"] {
-  padding: 5px;
-  margin-right: 10px;
-  font-size: 1rem;
-}
 
 #votes-form input[type="submit"] {
   padding: 5px 10px;
@@ -149,7 +144,9 @@ input[type="submit"]:hover, button:hover {
   cursor: pointer;
 }
 
-
+#votes-form input[type="submit"]:hover {
+  background-color: #003d80;
+}
 
 
 #reset-votes {
