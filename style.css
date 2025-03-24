@@ -128,16 +128,17 @@ input[type="submit"], button {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-input[type="submit"]:hover, button:hover {
-  background-color: white;
-  color: #4CAF50;
-}
+
 
 input[type="text"] {
   font-size: 3vh;
 }
 
-
+#votes-form input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+  font-size: 1rem;
+}
 
 #votes-form input[type="submit"] {
   padding: 5px 10px;
