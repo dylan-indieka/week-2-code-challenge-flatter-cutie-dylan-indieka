@@ -168,3 +168,7 @@ input[type="text"] {
   background-color: #cc0000;
 }
 
+#image {
+  width: 300px;
+  height: 300px;
+}
